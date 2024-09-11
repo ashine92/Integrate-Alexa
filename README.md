@@ -1,7 +1,7 @@
 # Integrate-Alexa
 
 ## Phân công nhiệm vụ:
-- Nhóm phần cứng (Hiển, Hùng, Ngân):
+- Nhóm phần cứng (Hiển, Hùng, Ngân, Ánh):
   + Thu thập các phần cứng và thiết bị cần thiết, đảm bảo nó có khả năng kết nối với Alexa. (Nhiệt độ độ ẩm, điều khiển đèn LED, đo lượng nước sử dụng)
   + Thiết kế sơ đồ mạch hoàn chỉnh và cấu hình phần cứng của thiết bị IoT -> gửi thông tin cho nhóm phần mềm
   + Xây dựng mô hình sản phẩm
