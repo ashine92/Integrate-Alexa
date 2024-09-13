@@ -12,6 +12,9 @@
   + Thường xuyên cập nhật thông tin phản hồi từ nhóm phần cứng và phần mềm để cập nhật vào báo cáo và slide thuyết trình
   + Thực hiện viết báo cáo đề tài: Tham khảo cấu trúc đề tài nghiên cứu khoa học: https://hcmussh.edu.vn/news/item/6562
   + Thiết kế và trình bày bằng powerpoint (dựa trên docs)
+  + File báo cáo: https://docs.google.com/document/d/1KP9vkXjoSQ7pnQ7G-xYxgm9S-xrFPUHsuzEh0InQ8lk/edit?usp=sharing
+  + File đăng ký: https://docs.google.com/document/d/1QCsRwbjw5hCgv1Ew1-cHK1697lluUlQK7DGQYL8TMEM/edit?usp=sharing
+  + File powerpoint: https://docs.google.com/presentation/d/17hzqDtVVRz2RUZsUJ1fQKBqshnkGo3q7prwmOcIfZAU/edit?usp=sharing
 
 ## Tài liệu tham khảo
 - Implement a Connected Building with Amazon Alexa and AWS IoT: https://aws.amazon.com/vi/blogs/iot/implement-a-connected-building-with-alexa-and-aws-iot/
