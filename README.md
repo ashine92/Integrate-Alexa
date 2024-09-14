@@ -20,3 +20,10 @@
 - Implement a Connected Building with Amazon Alexa and AWS IoT: https://aws.amazon.com/vi/blogs/iot/implement-a-connected-building-with-alexa-and-aws-iot/
 - Let Us Create an Alexa Skill for Our IoT Device Inside the AWS Cloud: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540668
 - Arduino Cloud Amazon Alexa Integration: https://docs.arduino.cc/tutorials/projects/arduino-iot-cloud-amazon-alexa-integration/
+
+## Update deadlines: 
+- Nhóm phần cứng:
++ (14/09/2024): Sơ đồ linh kiện phần cứng
+- Nhóm phần mềm:
+- Nhóm tài liệu:
++ (18/09/2024): Hoàn thành chương 1, 2, 3 (docs, powerpoint)
