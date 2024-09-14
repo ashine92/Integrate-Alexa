@@ -25,5 +25,6 @@
 - Nhóm phần cứng:
   + (14/09/2024): Sơ đồ linh kiện phần cứng
 - Nhóm phần mềm:
+  + (22/09/2024): Code hoàn thiện từng chức năng Arduino 
 - Nhóm tài liệu:
   + (18/09/2024): Hoàn thành chương 1, 2, 3 (docs, powerpoint)
