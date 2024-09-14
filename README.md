@@ -23,7 +23,7 @@
 
 ## Update deadlines: 
 - Nhóm phần cứng:
-+ (14/09/2024): Sơ đồ linh kiện phần cứng
+  + (14/09/2024): Sơ đồ linh kiện phần cứng
 - Nhóm phần mềm:
 - Nhóm tài liệu:
-+ (18/09/2024): Hoàn thành chương 1, 2, 3 (docs, powerpoint)
+  + (18/09/2024): Hoàn thành chương 1, 2, 3 (docs, powerpoint)
