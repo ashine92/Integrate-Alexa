@@ -1,3 +1,4 @@
+# Báo cáo phần cứng (14-09-2024)
 ## I. Điều khiển đèn từ xa
 ### 1. Linh kiện
 #### a. LED
