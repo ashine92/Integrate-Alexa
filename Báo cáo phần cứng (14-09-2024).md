@@ -1,4 +1,7 @@
 # Báo cáo phần cứng (14-09-2024)
+## Sơ đồ mạch hoàn chỉnh
+![image](https://github.com/user-attachments/assets/08b04842-6505-4316-bc65-f7aba14173cb)
+
 ## I. Điều khiển đèn từ xa
 ### 1. Linh kiện
 #### a. LED
