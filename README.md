@@ -27,4 +27,4 @@
 - Nhóm phần mềm:
   + (22/09/2024): Code hoàn thiện từng chức năng Arduino 
 - Nhóm tài liệu:
-  + (22/09/2024): Hoàn thành chương 1, 2, 3 (docs, powerpoint)
+  + (22/09/2024): Hoàn thành chương 1, 2, 3 (docs)
