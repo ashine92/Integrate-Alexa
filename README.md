@@ -57,8 +57,6 @@
 
 **Chương 3:**
 
-**3.1 Kết quả thử nghiệm**
-
 - Mô tả các tình huống thử nghiệm (vd: bật/tắt đền, điều khiển nhiệt độ)
 - Đánh giá hiệu quả: Đánh giá mức độ hiệu quả, tính ổn định và tính khả dụng của hệ thống sau khi tích hợp. So sánh hiệu quả trước và sau khi tích hợp Alexa
 
