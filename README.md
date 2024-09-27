@@ -22,9 +22,46 @@
 - Arduino Cloud Amazon Alexa Integration: https://docs.arduino.cc/tutorials/projects/arduino-iot-cloud-amazon-alexa-integration/
 
 ## Update deadlines: 
-- Nhóm phần cứng:
-  + (14/09/2024): Sơ đồ linh kiện phần cứng (Complete).
-- Nhóm phần mềm:
-  + (22/09/2024): Code hoàn thiện từng chức năng Arduino 
-- Nhóm tài liệu:
-  + (22/09/2024): Hoàn thành chương 1, 2, 3 (docs)
+- Làm lại file báo cáo:
+### Mục lục báo cáo:
+**Chương 1: Tổng quan**
+
+**1.1 Đặt vấn đề**
+
+**1.2 Mục tiêu nghiên cứu**
+
+**1.3 Nội dung nghiên cứu**
+
+
+**Chương 2: Cơ sở lý thuyết**
+
+**2.1 Tổng quan về Amazon Alexa**
+
+- Giới thiệu Alexa
+- Cách hoạt động và cơ chế nhận dạng giọng nói
+  
+**2.2 Công nghệ IoT trong hệ thống Smart Home**
+
+- Khái niệm cơ bản về IoT
+- Các ứng dung trong nhà thông minh
+  
+**2.3 Tích hợp Amazon Alexa**
+
+- Các tiêu chuẩn kết nối (Wifi, Zigbee, Z-wave)
+- Mô tả công nghệ, phần mềm, ngôn ngữ lập trình, thiết bị sử dung
+- Thiết kế hệ thống: Mô tả sơ đồ hệ thống tích hợp, bao gồm các thành phần: Amazon Alexa, server điều khiển, các thiết bị IoT
+- Quy trình tích hợp: Mô tả các bước cụ thể để tích hợp Amazon Alexa vào hệ thống IoT
+
+**Chương 3:**
+
+**3.1 Kết quả thử nghiệm**
+
+- Mô tả các tình huống thử nghiệm (vd: bật/tắt đền, điều khiển nhiệt độ)
+- Đánh giá hiệu quả: Đánh giá mức độ hiệu quả, tính ổn định và tính khả dụng của hệ thống sau khi tích hợp. So sánh hiệu quả trước và sau khi tích hợp Alexa
+
+**Chương 4:**
+
+**4.1 Kết luận**
+
+**4.2 Hướng phát triển**
+
