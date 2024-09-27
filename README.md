@@ -32,6 +32,9 @@
 
 **1.3 Nội dung nghiên cứu**
 
+**1.4 Giới hạn**
+
+**1.5 Bố cục**
 
 **Chương 2: Cơ sở lý thuyết**
 
