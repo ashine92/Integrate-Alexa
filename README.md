@@ -24,7 +24,7 @@
 ## Update deadlines: 
 - Làm lại file báo cáo:
 ### Mục lục báo cáo:
-**Chương 1: Tổng quan**
+**Chương 1: Tổng quan (Ngân)**
 
 **1.1 Đặt vấn đề**
 
@@ -36,7 +36,7 @@
 
 **1.5 Bố cục**
 
-**Chương 2: Cơ sở lý thuyết**
+**Chương 2: Cơ sở lý thuyết (Ánh)**
 
 **2.1 Tổng quan về Amazon Alexa**
 
@@ -55,12 +55,12 @@
 - Thiết kế hệ thống: Mô tả sơ đồ hệ thống tích hợp, bao gồm các thành phần: Amazon Alexa, server điều khiển, các thiết bị IoT
 - Quy trình tích hợp: Mô tả các bước cụ thể để tích hợp Amazon Alexa vào hệ thống IoT
 
-**Chương 3: Tích hợp và thử nghiệm hệ thống**
+**Chương 3: Tích hợp và thử nghiệm hệ thống (Ngân)**
 
 - Mô tả các tình huống thử nghiệm (vd: bật/tắt đền, điều khiển nhiệt độ)
 - Đánh giá hiệu quả: Đánh giá mức độ hiệu quả, tính ổn định và tính khả dụng của hệ thống sau khi tích hợp. So sánh hiệu quả trước và sau khi tích hợp Alexa
 
-**Chương 4: Kết luận**
+**Chương 4: Kết luận (Ánh)**
 
 **4.1 Kết luận**
 
