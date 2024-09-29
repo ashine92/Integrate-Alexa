@@ -55,7 +55,7 @@
 - Thiết kế hệ thống: Mô tả sơ đồ hệ thống tích hợp, bao gồm các thành phần: Amazon Alexa, server điều khiển, các thiết bị IoT
 - Quy trình tích hợp: Mô tả các bước cụ thể để tích hợp Amazon Alexa vào hệ thống IoT
 
-**Chương 3: Tích hợp và thử nghiệm hệ thống (Ngân)**
+**Chương 3: Đánh giá kết quả (Ngân)**
 
 - Mô tả các tình huống thử nghiệm (vd: bật/tắt đền, điều khiển nhiệt độ)
 - Đánh giá hiệu quả: Đánh giá mức độ hiệu quả, tính ổn định và tính khả dụng của hệ thống sau khi tích hợp. So sánh hiệu quả trước và sau khi tích hợp Alexa
